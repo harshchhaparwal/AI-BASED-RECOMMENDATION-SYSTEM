@@ -39,3 +39,12 @@ public class RecommendationSystem {
         }
     }
 }
+
+data.csv file should contain user-item ratings in the format:
+userID,itemID,preferenceValue
+1,101,4.0
+1,102,3.5
+2,101,4.5
+2,103,5.0
+3,104,2.5
+
